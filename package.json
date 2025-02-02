@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "file": "^0.2.2"
+  },
+  "name": "nodeclass",
+  "version": "1.0.0",
+  "main": "filesys.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "nodemon": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
